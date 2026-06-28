@@ -1,0 +1,6 @@
+{
+  "name": "Pacificador",
+  "description": "Un consejero bíblico pastoral diseñado para guiarte a resolver tus conflictos interpersonales agradando a Dios, examinando tu propio corazón primero y amando activamente al prójimo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
